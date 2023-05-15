@@ -1,1 +1,6 @@
-This is a integration test with POEditor
+{
+ "integration": {
+   "test": "poeditor",
+   "value": 1
+   }
+}
