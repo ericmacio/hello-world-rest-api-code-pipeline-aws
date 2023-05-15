@@ -1,26 +1,11 @@
-[
-    {
-        "term": "Order",
-        "definition": "Order",
-        "context": "",
-        "term_plural": "",
-        "reference": "",
-        "comment": ""
+{
+    "app": {
+        "name": "smartlube",
+        "description": "automatic creation of order",
+        "text": "Welcome to the Smartlube application"
     },
-    {
-        "term": "test",
-        "definition": coucou,
-        "context": "\"integration\"",
-        "term_plural": "",
-        "reference": "",
-        "comment": ""
-    },
-    {
-        "term": "value",
-        "definition": null,
-        "context": "\"integration\"",
-        "term_plural": "",
-        "reference": "",
-        "comment": ""
+    "login": {
+        "field1": "firstname",
+        "field2": "lastname"
     }
-]
+}
