@@ -1,11 +1,42 @@
-{
-    "app": {
-        "name": "smartlube",
-        "description": "automatic creation of order",
-        "text": "Welcome to the Smartlube application"
+[
+    {
+        "term": "name",
+        "definition": null,
+        "context": "\"app\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
     },
-    "login": {
-        "field1": "firstname",
-        "field2": "lastname"
+    {
+        "term": "description",
+        "definition": "Nouvelle description",
+        "context": "\"app\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "text",
+        "definition": null,
+        "context": "\"app\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "field1",
+        "definition": null,
+        "context": "\"login\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "field2",
+        "definition": null,
+        "context": "\"login\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
     }
-}
+]
