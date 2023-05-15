@@ -1,6 +1,26 @@
-{
- "integration": {
-   "test": "poeditor",
-   "value": 1
-   }
-}
+[
+    {
+        "term": "Order",
+        "definition": "Order",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "test",
+        "definition": null,
+        "context": "\"integration\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "value",
+        "definition": null,
+        "context": "\"integration\"",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
