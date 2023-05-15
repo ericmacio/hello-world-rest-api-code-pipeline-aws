@@ -9,7 +9,7 @@
     },
     {
         "term": "test",
-        "definition": null,
+        "definition": coucou,
         "context": "\"integration\"",
         "term_plural": "",
         "reference": "",
